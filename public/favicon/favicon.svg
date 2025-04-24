@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" fill="#121212"/>
+  
+  <!-- Steering Wheel Outer Ring -->
+  <circle cx="32" cy="28" r="24" fill="#1e1e1e" stroke="#2c2c2c" stroke-width="1"/>
+  <circle cx="32" cy="28" r="22" fill="#242424"/>
+  
+  <!-- Steering Wheel Inner -->
+  <circle cx="32" cy="28" r="10" fill="#444444"/>
+  <circle cx="32" cy="28" r="8" fill="#555555"/>
+  <circle cx="32" cy="28" r="6" fill="#666666"/>
+  
+  <!-- Wheel Spokes - Left -->
+  <path d="M22 21C19 23 18 27 18 28L23 31C23 31 23 28 24 26L22 21Z" fill="#999999"/>
+  <path d="M42 21C45 23 46 27 46 28L41 31C41 31 41 28 40 26L42 21Z" fill="#999999"/>
+  
+  <!-- Center Silver part -->
+  <path d="M23 31L41 31C40 37 24 37 23 31Z" fill="#777777"/>
+  <path d="M23 25L41 25C40 19 24 19 23 25Z" fill="#777777"/>
+  
+  <!-- CC Logo -->
+  <path d="M33 55.5 C30 56 28 54 28 51 C28 48 31 45 34 45 L35 48 C33 48 31 49 31 51 C31 53 32 53 33 53 L33 55.5Z" fill="#FF3333"/>
+  <path d="M43 55.5 C40 56 38 54 38 51 C38 48 41 45 44 45 L45 48 C43 48 41 49 41 51 C41 53 42 53 43 53 L43 55.5Z" fill="#FF3333"/>
+</svg> 
